@@ -1,4 +1,55 @@
 <resources>
     <string name="app_name">AboutMe</string>
     <string name="name">Devin North</string>
+    <string name="yellow_star">A yellow star</string>
+    <string name="bio">Hello! My name is Devin.
+        \n\nI am 33 years old.
+        \n\nI enjoy video games, programming, small electronics, playing guitar, and coffee.
+        \n\nI also enjoy playing golf, disc golf, and hiking.
+        \n\nHere is a bunch of lorem ipsum text to pad the box and make it scroll:\n
+        \n\Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea eum ex
+        excepturi magni nostrum obcaecati vitae. Ab animi, consequatur consequuntur deserunt enim
+        id illo ipsa ipsam minus natus nesciunt nostrum officia pariatur praesentium quae quas
+        quis quo recusandae repellat saepe soluta veniam veritatis? Dolore doloribus error
+        laborum sapiente. Accusamus alias delectus explicabo harum sit? Animi fuga ipsam natus
+        odio? Distinctio eaque facere facilis ipsam, nam nostrum nulla optio provident
+        reprehenderit rerum sequi sunt tenetur vel. Alias assumenda culpa debitis dolorum,
+        ducimus eveniet expedita labore, nam odio pariatur quasi tempore vero voluptas. Adipisci
+        aliquid aspernatur at beatae consectetur distinctio, dolorem dolores ducimus eius enim
+        eum eveniet exercitationem facere fugiat fugit illo ipsum iste laborum magnam magni
+        necessitatibus nostrum numquam omnis porro quasi quis quo quos ratione rerum sed soluta
+        tempora unde vel velit veniam veritatis vitae. Aliquid at, atque autem consectetur
+        consequatur distinctio dolorum error excepturi in, itaque maiores minima perspiciatis
+        placeat possimus provident quod repudiandae tempora. Est in libero magnam sint suscipit
+        temporibus veniam! Deleniti dolor eligendi molestiae necessitatibus perspiciatis
+        provident quidem sapiente! Aliquam aliquid animi, culpa cum debitis delectus, doloremque
+        et excepturi fugit neque nisi nulla sed voluptates. A accusamus ad asperiores autem
+        consectetur consequatur, cumque cupiditate debitis dolore earum excepturi expedita fugit
+        illo ipsum iste libero molestiae molestias mollitia nesciunt perspiciatis placeat qui
+        quod reiciendis repellat sapiente sed suscipit, tempore ullam vitae voluptatem! Aut
+        corporis culpa dolore ea quidem soluta suscipit. A consectetur cupiditate deserunt
+        dignissimos distinctio earum est, eveniet ex exercitationem expedita fugit id impedit
+        iure libero mollitia nulla officia perferendis perspiciatis quae reiciendis vel velit
+        veniam voluptatibus! Cupiditate dolor doloribus eaque enim ipsum laudantium natus nostrum
+        quas sequi voluptas? Atque dolor enim eum exercitationem harum impedit in incidunt iusto
+        magnam magni minus modi nihil nobis perspiciatis possimus quam quo quod ratione
+        reiciendis rerum unde ut, voluptas voluptatibus! A accusamus alias aliquid animi eaque
+        esse exercitationem facere hic inventore iure labore laborum magni nihil nisi, obcaecati
+        odio porro quae recusandae repellendus reprehenderit sunt tempore velit veritatis vitae
+        voluptatem. Cupiditate error quae voluptatibus. Amet architecto asperiores at commodi
+        debitis deleniti dicta dignissimos dolor dolore eaque eligendi est eum excepturi fugit id
+        ipsum, iste nam perspiciatis, placeat quibusdam quis quo ratione repellat soluta ullam
+        unde ut. Dolorem neque perferendis quis ratione temporibus. At consequuntur deleniti ex
+        fugit nisi non obcaecati porro quas, rerum saepe! Culpa deleniti dolor doloremque ea,
+        eligendi labore magni nostrum quidem repellendus rerum sit sunt. Animi esse molestias
+        quibusdam voluptate. Aliquid animi debitis, delectus dolore, explicabo fugiat fugit minus
+        nihil nostrum obcaecati quas qui quia quidem quos ratione reiciendis repellendus sint
+        temporibus totam voluptates. Amet aperiam asperiores autem consequuntur dicta dolorum
+        esse, facilis fuga fugiat hic inventore maiores modi molestias necessitatibus nemo nisi
+        nulla officiis perspiciatis quasi, quos rem temporibus tenetur. Aperiam architecto aut
+        autem beatae commodi consequatur cumque, delectus deleniti deserunt dolor dolore dolores
+        eaque libero maiores minus neque numquam placeat quam quasi repellat sunt temporibus,
+        unde ut, velit veniam vero voluptate voluptates?\n
+    </string>
+    <string name="avatar_desc">The user\'s avatar</string>
 </resources>
