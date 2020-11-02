@@ -53,4 +53,5 @@
     </string>
     <string name="avatar_desc">The user\'s avatar</string>
     <string name="nickname_hint">What is your nickname?</string>
+    <string name="done">done</string>
 </resources>
