@@ -52,4 +52,5 @@
         unde ut, velit veniam vero voluptate voluptates?\n
     </string>
     <string name="avatar_desc">The user\'s avatar</string>
+    <string name="nickname_hint">What is your nickname?</string>
 </resources>
